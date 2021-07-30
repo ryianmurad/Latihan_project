@@ -1,0 +1,26 @@
+body {
+  background:red;
+  height: 100%;
+}
+
+.content-wrapper {
+  background:silver;
+}
+
+p {
+  color: white;
+  font:bold
+}
+.login-action {
+  display: flex 1;
+  justify-content: center;
+}
+
+.bar {
+  border: 1px solid silver;
+  border-radius: 10px;
+  padding: 10px;
+  outline: none;
+}
+
+
